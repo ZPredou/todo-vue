@@ -62,7 +62,7 @@ export default {
     },
     completeTodo(todo) {
         this.$emit('complete-todo', todo);
-      },
+    },
   },
 };
 </script>
